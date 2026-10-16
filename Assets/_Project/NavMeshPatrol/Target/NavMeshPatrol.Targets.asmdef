@@ -1,0 +1,16 @@
+{
+    "name": "NavMeshPatrol.Targets",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5251535c48bb8c54ba653d47bb590156"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
